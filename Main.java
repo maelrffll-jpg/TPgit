@@ -2,6 +2,6 @@
 public class Main {
     // le programme commence ici
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("salut Maël, c'est Antoine ! ^^");
     }
 }
